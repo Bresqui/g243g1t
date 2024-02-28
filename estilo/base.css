@@ -34,3 +34,9 @@ mobile {
     color: rgb(136, 14, 38);
  }   
 }
+@media (min-width: 1228px) {
+    .barra{
+        height: 100px;
+        background-color: aqua;
+    }
+}
