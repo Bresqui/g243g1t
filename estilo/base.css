@@ -39,4 +39,9 @@ mobile {
         height: 100px;
         background-color: aqua;
     }
+    .tablet{
+        display: inline;
+        font-size: 90px;
+        color: aquamarine;
+    }
 }
