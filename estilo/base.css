@@ -46,6 +46,15 @@ mobile {
     }
     .mobile{
         display: none;
-        
+    }
+    .tablet {
+        display: none;
+        font-size: 70px;
+        color: blue;
+    }
+    .desktop{
+        display: none;
+        font-size: 60px;
+        color: brown;
     }
 }
