@@ -17,7 +17,7 @@ body {
     text-align: center;
 }
 mobile {
-    font-size: 46px;
+    font-size: 80px;
     color: rgb(27, 10, 43);
 }
 @media (min-width: 720px) {
