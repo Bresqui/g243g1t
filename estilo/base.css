@@ -44,4 +44,8 @@ mobile {
         font-size: 90px;
         color: aquamarine;
     }
+    .mobile{
+        display: none;
+        
+    }
 }
