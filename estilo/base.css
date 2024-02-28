@@ -17,6 +17,20 @@ body {
     text-align: center;
 }
 mobile {
-    font-size: 60px;
+    font-size: 46px;
     color: rgb(27, 10, 43);
+}
+@media (min-width: 720px) {
+    .barra{
+     width: 80px;
+    background-color: rgb(255, 36, 80);
+}
+.mobile{
+    display: none;
+}
+ .tablet{
+    display: inline;
+    font-size: 60px;
+    color: rgb(136, 14, 38);
+ }   
 }
