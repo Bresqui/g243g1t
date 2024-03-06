@@ -47,18 +47,19 @@ mobile {
 }
 @media (min-width: 1228px) {
     .barra{
+        width: 100%;
         height: 100px;
         background-color: aqua;
     }
     .tablet{
         display: inline;
         font-size: 90px;
-        color: aquamarine;
+        color: rgb(255, 0, 0);
     }
     .desktop{
         display: inline;
         font-size: 90px;
-        color: cadetblue;
+        color: rgb(136, 255, 0);
     }
     .conteudo{
 
